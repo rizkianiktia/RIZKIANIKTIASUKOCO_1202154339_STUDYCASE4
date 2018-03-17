@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RIZKIANIKTIASUKOCO_1202154339_STUDYCASE4</string>
+    <string-array name="namaMhsw">
+        <item>Rizki Anik</item>
+        <item>Labbaika Tiovani</item>
+        <item>Lalita Marmika</item>
+        <item>Safira Aini</item>
+        <item>Sardhika Janar</item>
+        <item>Veny Amilia F</item>
+        <item>Khalissa Vira</item>
+        <item>Rangga Ardiansyah</item>
+        <item>Irmayanti Syam</item>
+        <item>Qory Ummu Hanifah</item>
+        <item>Ica Mefid</item>
+
+    </string-array>
+</resources>
